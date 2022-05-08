@@ -6,7 +6,8 @@
   list-style: none; }
 
 header {
-  background-color: aqua; }
+  width: 100%;
+  grid-area: header; }
 
 /*VARIABLES DE COLORES*/
 /*MIXINS*/

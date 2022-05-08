@@ -3,7 +3,6 @@
 
 
 
-/*VARIABLES DE COLORES*/
 
 $negro:#000000;
 $blanco:#FFFFFF;
@@ -17,11 +16,11 @@ $amarillo: #FDFD96;
 $celeste: #84B6F4; 
 $verde-pastel: #77DD77; 
 $gris: #E5E5E5; 
+$verde-Azulado:#029987;
 
 
 
 
-/*MIXINS*/
 
 @mixin header {
     display: flex;
