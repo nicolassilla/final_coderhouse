@@ -1,0 +1,20 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+
+
+@import "utilities/inicio";
+@import "utilities/nosotros";
+@import "utilities/cursos";
+@import "utilities/consultorio";
+@import "utilities/contacto";
+@import "variables";
